@@ -9,7 +9,7 @@ import android.view.View;
 
 import android.os.Bundle;
 import android.widget.EditText;
-
+// luodaan luokka.
 public class MainActivity extends AppCompatActivity {
 
     private EditText display;
